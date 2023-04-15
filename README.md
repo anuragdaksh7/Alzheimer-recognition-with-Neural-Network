@@ -1,5 +1,5 @@
 # Alzheimer-recognition-with-Neural-Network
-
+link to pre-trained model https://drive.google.com/file/d/1qDRLOSia6eNHJrwL-7g-nDOGgXYRccy_/view?usp=sharing
 # model summary
 Model: "sequential_22"
 _________________________________________________________________
