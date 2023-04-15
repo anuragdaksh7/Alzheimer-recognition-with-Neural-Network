@@ -3,7 +3,7 @@
 # model summary
 Model: "sequential_22"
 _________________________________________________________________
- Layer (type)                Output Shape              Param #   
+ Layer (type)                Output Shape              Param    
 =================================================================
  conv2d_38 (Conv2D)          (None, 206, 174, 32)      320       
                                                                  
