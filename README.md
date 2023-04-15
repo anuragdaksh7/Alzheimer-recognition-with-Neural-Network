@@ -34,3 +34,7 @@ Trainable params: 4,025,156
 
 Non-trainable params: 0
 _________________________________________________________________
+
+
+Dataset used:
+Alzheimer's Dataset on kaggle (https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
