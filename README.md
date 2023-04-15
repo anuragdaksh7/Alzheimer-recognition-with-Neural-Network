@@ -1,4 +1,11 @@
 # Alzheimer-recognition-with-Neural-Network
+
+# Team:
+ - Anurag Daksh
+ - Gaurav Kumar Singh
+ - Kunal Sharma
+ - Rohit Chand
+
 link to pre-trained model https://drive.google.com/file/d/1qDRLOSia6eNHJrwL-7g-nDOGgXYRccy_/view?usp=sharing
 # model summary
 Model: "sequential_22"
